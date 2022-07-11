@@ -1,0 +1,2 @@
+Link para download do Git https://git-scm.com/
+O GitBush é um terminal estendido para otimizar o uso do Git;
